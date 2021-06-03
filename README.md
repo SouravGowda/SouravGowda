@@ -13,7 +13,9 @@
 
 -Experience on **ROS** (Robot Operating System) environment for the message passing and visualization.
 
--Experience in **Agile Methodology** on **Scrum Methodology** and **Scrum meeting**.
+-Experience in **Agile Methodology** on **Scrum Methodology** and **Scrum meeting**
+
+
 
 ***Skills:***
 
@@ -31,11 +33,15 @@
 
 
 
+
+
 ***Project 1: Event Identification of neighbor vehicle makes a lane change to Ego-Vehicle Lane (Cut-In)***
 
 ***Project 2: Developing a framework in ROS environment.***
 
 ***Project 3: Development of VSLAM (Visual Simultaneous Localization and Mapping)***
+
+
 
 
 ***Qualification***
