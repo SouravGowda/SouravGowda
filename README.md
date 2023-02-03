@@ -2,7 +2,7 @@
 
 **Email : souravkc5557@gmail.com**
 
-3 years of experience as a DevOps engineer and configuration management. 
+3+ years of experience as a DevOps engineer and configuration management. 
 
 Experience with Linux/Unix Environments and Scripting for Build & Release automation. 
 
