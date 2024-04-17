@@ -75,7 +75,8 @@ Ability to accept challenges, learn and grow in a reliable professional manner.
 
 
 ***PROFESSIONAL EXPERIENCE:***
-       ***Worked as “Software Engineer” in Infinite Computer Solutions, Bengaluru from May 2020 to Till date***
+      
+ ***Worked as “Software Engineer” in Infinite Computer Solutions, Bengaluru from May 2020 to Till date***
           ***Roles and Responsibilities:***
                  Designed and managed public/private cloud infrastructures using Amazon Web Services (AWS) which
                 include VPC, EC2, S3, Cloud Front, Elastic File System, RDS, Direct Connect, Route53, Cloud Watch,
@@ -98,7 +99,7 @@ Ability to accept challenges, learn and grow in a reliable professional manner.
                 quickly deploy critical applications, and proactively manage the changes
 
       
-       ***Worked as “Software Engineer” at KPIT Technology, Bengaluru from July 2019 to May 2020.***
+***Worked as “Software Engineer” at KPIT Technology, Bengaluru from July 2019 to May 2020.***
             ***Roles and Responsibilities:***
                      Attending Daily standups and weekly status calls and sending task updates to the Lead/manager
                      Procuring and configuring the server as per the needs of the release and the application
@@ -128,7 +129,7 @@ Ability to accept challenges, learn and grow in a reliable professional manner.
                      Integrated SonarQube with Jenkins for continuous inspection of code quality and analysis with
                     SonarQube.
                     
-      *** Worked as “Software Engineer Trainee” in KPIT Technology, Bengaluru from May 2018 to May 2019.***
+*** Worked as “Software Engineer Trainee” in KPIT Technology, Bengaluru from May 2018 to May 2019.***
           ***Project 1: Event Identification of neighbor vehicle makes a lane change to Ego-Vehicle Lane (Cut-In)***
                 • Advanced Driver-assistance systems (ADAS) are the systems to help the driver in the driving process for safety and better driving.
                 • Identifying the specific cut-in event on the highway scenario using computer vision.
@@ -137,13 +138,13 @@ Ability to accept challenges, learn and grow in a reliable professional manner.
                 • Validating the Cut-In events by accumulating Lane marks and vehicle coordinates using Python.
                 • Displaying it by a GUI indicator by taking the lane and vehicle coordinates values.
 
-          ***Project 2: Development of VSLAM (Visual Simultaneous Localization and Mapping)***
-                      • Removal of Third-Party Dependencies in ORB_SLAM
-                      • Using only the Monocular SLAM instead of Stereo and RGB images.
-                      • Removal of Eigen Libraries and their dependencies from CMakeLists.
-                      • Preparation of topics on Frame & Map drawer, Viewer, and mono_kitti for white paper VSLAM for AD/ADAS.
-                      • Removal of magic number and count for the frame and map increment
-                      • Created single code for all the defined execution, frame, and map dump.
+***Project 2: Development of VSLAM (Visual Simultaneous Localization and Mapping)***
+          • Removal of Third-Party Dependencies in ORB_SLAM
+          • Using only the Monocular SLAM instead of Stereo and RGB images.
+          • Removal of Eigen Libraries and their dependencies from CMakeLists.
+          • Preparation of topics on Frame & Map drawer, Viewer, and mono_kitti for white paper VSLAM for AD/ADAS.
+          • Removal of magic number and count for the frame and map increment
+          • Created single code for all the defined execution, frame, and map dump.
 
 
 
