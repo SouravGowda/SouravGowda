@@ -75,8 +75,6 @@ Ability to accept challenges, learn and grow in a reliable professional manner.
 
 
 ***PROFESSIONAL EXPERIENCE:***
-      
- ***Worked as “Software Engineer” in Infinite Computer Solutions, Bengaluru from May 2020 to Till date***
           ***Roles and Responsibilities:***
                  Designed and managed public/private cloud infrastructures using Amazon Web Services (AWS) which
                 include VPC, EC2, S3, Cloud Front, Elastic File System, RDS, Direct Connect, Route53, Cloud Watch,
@@ -98,8 +96,7 @@ Ability to accept challenges, learn and grow in a reliable professional manner.
                  Used Ansible as a Configuration management and deployment tool, to automate repetitive tasks,
                 quickly deploy critical applications, and proactively manage the changes
 
-      
-***Worked as “Software Engineer” at KPIT Technology, Bengaluru from July 2019 to May 2020.***
+                
             ***Roles and Responsibilities:***
                      Attending Daily standups and weekly status calls and sending task updates to the Lead/manager
                      Procuring and configuring the server as per the needs of the release and the application
